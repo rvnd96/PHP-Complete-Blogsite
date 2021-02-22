@@ -1,0 +1,49 @@
+body {
+	background-color: #122173;
+}
+
+.mainBar {
+	background-color: #fff;
+}
+
+.side_menu a{
+	color: #dde1eb;
+	margin-bottom: 5px;
+
+}
+
+.side_menu .active a{
+	color: #fff;
+	font-weight: bold;
+	background-color: #507DBC;
+}
+
+.side_menu a:hover {
+	color: #010878;
+	display: block;
+	font-weight: bold;
+	background-color: #b5b9f7;
+}
+
+.side_menu .active a:hover{
+	color: #010878;
+	background-color: #27aae1;
+}
+
+.fieldInfo {
+	color: #1017e6;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 1.2em;
+	font-weight: bold;
+}
+
+#Footer {
+	padding: 10px;
+	border-top: 1px solid black;
+	color: #eee;
+	background-color: #211f22;
+	text-align: center;
+}
+#Footer hr{
+	background-color: rgba(255, 255, 255, 0.8);
+}

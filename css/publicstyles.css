@@ -1,0 +1,39 @@
+body {
+	background-color: white;
+}
+
+.blogpost {
+	background-color: #f5f5f5;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+	overflow: hidden;
+	margin-bottom: 15px;
+}
+
+#heading {
+	color: #005e90;
+	font-family: Bitter, "New Times Roman", Times, serif;
+	font-weight: bold;
+}
+#heading:hover {
+	color: #0090db;
+}
+
+.description {
+	color: #868686;
+	font-weight: bold;
+	margin-top: -2px;
+}
+
+.post {
+	font-style: 1.1em;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	text-align: justify;
+}
+
+.myimg {
+	max-width: 150px;
+	margin: 0 auto;
+	display: block;
+}
