@@ -214,13 +214,14 @@ if(isset($_POST['Submit'])) {
                 </form>
             </div>
             <!-- Adding Comment Section Form | End -->
-
     		</div> <!-- main bar -->
+
     		<!-- side bar Starts-->
             <div class="offset-1 col-sm-3">
                 <h2>About me</h2>
                 <img class="myimg img-fluid rounded-circle " src="images/myself.jpeg" alt="about me">
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima incidunt facere veniam animi quis quas culpa, saepe nobis neque laboriosam quasi fugiat repellendus, harum error quod. Quidem cupiditate iusto rerum numquam unde asperiores, quod repellendus. Alias rerum suscipit nisi debitis.</p>
+                <p>I am graduated from Sri Lanka Institute of Information Technology (SLIIT) with a Bsc degree in Information Technology Specilized in Information Technology.
+                I am currently practicing as Full-Stack web developer. This is my biggest PHP project so far. </p>
 
                 <div class="card">
                     <div class="card-header bg-primary text-light">
